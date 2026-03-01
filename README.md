@@ -63,7 +63,7 @@ To provide a better picture of files and folders that containers base images hav
 
     /root: is the home directory of the root user.
 ```
-
+for every container we spin up in vm there are above folders are created for every conatincer one is not using another so thats why they are isolated.
 
 
 ### Files and Folders that containers use from host operating system
